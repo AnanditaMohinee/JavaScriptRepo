@@ -1,0 +1,2 @@
+# JavaScriptRepo
+JavaScript from scratch
